@@ -1,0 +1,7 @@
+{
+  "name": "Dolphin",
+  "description": "Snap a photo of your math or physics homework. Get step-by-step solutions and visualize the concepts with AI-generated videos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
